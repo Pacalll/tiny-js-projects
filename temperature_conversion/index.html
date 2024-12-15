@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form>
+        <h1>Temperature conversion:</h1>
+        <input type="number" id="textBox" value="0">
+        <div class="option">
+            <input type="radio" name="unit" id="celsiustofahrenheit">
+            <label for="celsiustofahrenheit">Celsius --> Fahrenheit</label>
+        </div>
+        <div class="option">
+            <input type="radio" name="unit" id="celsiustokelvin">
+            <label for="celsiustokelvin">Celsius --> Kelvin</label>
+        </div>
+        <div class="option">
+            <input type="radio" name="unit" id="kelvintofahrenheit">
+            <label for="kelvintofahrenheit">Kelvin --> Fahrenheit</label>
+        </div>
+        <div class="option">
+            <input type="radio" name="unit" id="kelvintocelsius">
+            <label for="kelvintocelsius">Kelvin --> Celsius</label>
+        </div>
+        <div class="option">
+            <input type="radio" name="unit" id="fahrenheittocelsius">
+            <label for="fahrenheittocelsius">Fahrenheit --> Celsius</label>
+        </div>
+        <div class="option">
+            <input type="radio" name="unit" id="fahrenheittokelvin">
+            <label for="fahrenheittokelvin">Fahrenheit --> Kelvin</label>
+        </div>
+        
+        <button type="button" onclick="convert()">Calculate</button>
+        <p id="result"></p>
+    </form>
+    <script src="script.js"></script>
+</body>
+</html>
