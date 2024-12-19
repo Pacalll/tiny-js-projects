@@ -25,6 +25,9 @@ h1{
 nav ul{
     list-style-type: none;
 }
+nav ul li{
+    margin-bottom: 20px;
+}
 
 nav a{
     text-decoration: none;
