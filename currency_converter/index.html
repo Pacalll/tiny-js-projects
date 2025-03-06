@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency Converter App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+        <h1 class="warning">Note: The API key has been removed from this application for security reasons !</h1>
+        <h1>Currency Converter</h1>
+        <div class="amount">
+            <input type="number" id="amount" placeholder="Enter Amount" class="amountInput">
+        </div>
+        <div class="currency-label">
+            <label for="currency">From:</label>      
+            <label for="currency">To:</label>
+        </div>
+        <div class="currency-select">
+            <select name="currency" id="currencyfrom">
+            </select>
+            <select name="currency" id="currencyto">
+            </select>
+        </div>
+        <div class="exchangerate">
+            <p class="exchangerate-p">Result:</p>
+        </div>    
+        <div class="result">
+            <p class="resultoutput">Result:</p>
+        </div>
+        <button onclick="convert()">Convert</button>
+    <script src="script.js"></script>
+</body>
+</html>

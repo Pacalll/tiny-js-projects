@@ -1,0 +1,682 @@
+[
+    {
+        "shortName": "EUR",
+        "fullName": "EURO"
+    },
+    {
+        "shortName": "AED",
+        "fullName": "United Arab Emirates dirham"
+    },
+    {
+        "shortName": "AFN",
+        "fullName": "Afghan afghani"
+    },
+    {
+        "shortName": "ALL",
+        "fullName": "Albanian lek"
+    },
+    {
+        "shortName": "AMD",
+        "fullName": "Armenian dram"
+    },
+    {
+        "shortName": "ANG",
+        "fullName": "Netherlands Antillean guilder"
+    },
+    {
+        "shortName": "AOA",
+        "fullName": "Angolan kwanza"
+    },
+    {
+        "shortName": "ARS",
+        "fullName": "Argentine peso"
+    },
+    {
+        "shortName": "AUD",
+        "fullName": "Australian dollar"
+    },
+    {
+        "shortName": "AWG",
+        "fullName": "Aruban florin"
+    },
+    {
+        "shortName": "AZN",
+        "fullName": "Azerbaijani manat"
+    },
+    {
+        "shortName": "BAM",
+        "fullName": "Bosnia and Herzegovina convertible mark"
+    },
+    {
+        "shortName": "BBD",
+        "fullName": "Barbadian dollar"
+    },
+    {
+        "shortName": "BDT",
+        "fullName": "Bangladeshi taka"
+    },
+    {
+        "shortName": "BGN",
+        "fullName": "Bulgarian lev"
+    },
+    {
+        "shortName": "BHD",
+        "fullName": "Bahraini dinar"
+    },
+    {
+        "shortName": "BIF",
+        "fullName": "Burundian franc"
+    },
+    {
+        "shortName": "BMD",
+        "fullName": "Bermudian dollar"
+    },
+    {
+        "shortName": "BND",
+        "fullName": "Brunei dollar"
+    },
+    {
+        "shortName": "BOB",
+        "fullName": "Bolivian boliviano"
+    },
+    {
+        "shortName": "BRL",
+        "fullName": "Brazilian real"
+    },
+    {
+        "shortName": "BSD",
+        "fullName": "Bahamian dollar"
+    },
+    {
+        "shortName": "BTC",
+        "fullName": "Bitcoin"
+    },
+    {
+        "shortName": "BTN",
+        "fullName": "Bhutanese ngultrum"
+    },
+    {
+        "shortName": "BWP",
+        "fullName": "Botswana pula"
+    },
+    {
+        "shortName": "BYN",
+        "fullName": "Belarusian ruble"
+    },
+    {
+        "shortName": "BYR",
+        "fullName": "Belarusian ruble (old)"
+    },
+    {
+        "shortName": "BZD",
+        "fullName": "Belize dollar"
+    },
+    {
+        "shortName": "CAD",
+        "fullName": "Canadian dollar"
+    },
+    {
+        "shortName": "CDF",
+        "fullName": "Congolese franc"
+    },
+    {
+        "shortName": "CHF",
+        "fullName": "Swiss franc"
+    },
+    {
+        "shortName": "CLF",
+        "fullName": "Unidad de Fomento"
+    },
+    {
+        "shortName": "CLP",
+        "fullName": "Chilean peso"
+    },
+    {
+        "shortName": "CNY",
+        "fullName": "Chinese yuan"
+    },
+    {
+        "shortName": "CNH",
+        "fullName": "Chinese yuan (offshore)"
+    },
+    {
+        "shortName": "COP",
+        "fullName": "Colombian peso"
+    },
+    {
+        "shortName": "CRC",
+        "fullName": "Costa Rican colón"
+    },
+    {
+        "shortName": "CUC",
+        "fullName": "Cuban convertible peso"
+    },
+    {
+        "shortName": "CUP",
+        "fullName": "Cuban peso"
+    },
+    {
+        "shortName": "CVE",
+        "fullName": "Cape Verdean escudo"
+    },
+    {
+        "shortName": "CZK",
+        "fullName": "Czech koruna"
+    },
+    {
+        "shortName": "DJF",
+        "fullName": "Djiboutian franc"
+    },
+    {
+        "shortName": "DKK",
+        "fullName": "Danish krone"
+    },
+    {
+        "shortName": "DOP",
+        "fullName": "Dominican peso"
+    },
+    {
+        "shortName": "DZD",
+        "fullName": "Algerian dinar"
+    },
+    {
+        "shortName": "EGP",
+        "fullName": "Egyptian pound"
+    },
+    {
+        "shortName": "ERN",
+        "fullName": "Eritrean nakfa"
+    },
+    {
+        "shortName": "ETB",
+        "fullName": "Ethiopian birr"
+    },
+    {
+        "shortName": "FJD",
+        "fullName": "Fijian dollar"
+    },
+    {
+        "shortName": "FKP",
+        "fullName": "Falkland Islands pound"
+    },
+    {
+        "shortName": "GBP",
+        "fullName": "British pound"
+    },
+    {
+        "shortName": "GEL",
+        "fullName": "Georgian lari"
+    },
+    {
+        "shortName": "GGP",
+        "fullName": "Guernsey pound"
+    },
+    {
+        "shortName": "GHS",
+        "fullName": "Ghanaian cedi"
+    },
+    {
+        "shortName": "GIP",
+        "fullName": "Gibraltar pound"
+    },
+    {
+        "shortName": "GMD",
+        "fullName": "Gambian dalasi"
+    },
+    {
+        "shortName": "GNF",
+        "fullName": "Guinean franc"
+    },
+    {
+        "shortName": "GTQ",
+        "fullName": "Guatemalan quetzal"
+    },
+    {
+        "shortName": "GYD",
+        "fullName": "Guyanese dollar"
+    },
+    {
+        "shortName": "HKD",
+        "fullName": "Hong Kong dollar"
+    },
+    {
+        "shortName": "HNL",
+        "fullName": "Honduran lempira"
+    },
+    {
+        "shortName": "HRK",
+        "fullName": "Croatian kuna"
+    },
+    {
+        "shortName": "HTG",
+        "fullName": "Haitian gourde"
+    },
+    {
+        "shortName": "HUF",
+        "fullName": "Hungarian forint"
+    },
+    {
+        "shortName": "IDR",
+        "fullName": "Indonesian rupiah"
+    },
+    {
+        "shortName": "ILS",
+        "fullName": "Israeli new shekel"
+    },
+    {
+        "shortName": "IMP",
+        "fullName": "Isle of Man pound"
+    },
+    {
+        "shortName": "INR",
+        "fullName": "Indian rupee"
+    },
+    {
+        "shortName": "IQD",
+        "fullName": "Iraqi dinar"
+    },
+    {
+        "shortName": "IRR",
+        "fullName": "Iranian rial"
+    },
+    {
+        "shortName": "ISK",
+        "fullName": "Icelandic króna"
+    },
+    {
+        "shortName": "JEP",
+        "fullName": "Jersey pound"
+    },
+    {
+        "shortName": "JMD",
+        "fullName": "Jamaican dollar"
+    },
+    {
+        "shortName": "JOD",
+        "fullName": "Jordanian dinar"
+    },
+    {
+        "shortName": "JPY",
+        "fullName": "Japanese yen"
+    },
+    {
+        "shortName": "KES",
+        "fullName": "Kenyan shilling"
+    },
+    {
+        "shortName": "KGS",
+        "fullName": "Kyrgyzstani som"
+    },
+    {
+        "shortName": "KHR",
+        "fullName": "Cambodian riel"
+    },
+    {
+        "shortName": "KMF",
+        "fullName": "Comorian franc"
+    },
+    {
+        "shortName": "KPW",
+        "fullName": "North Korean won"
+    },
+    {
+        "shortName": "KRW",
+        "fullName": "South Korean won"
+    },
+    {
+        "shortName": "KWD",
+        "fullName": "Kuwaiti dinar"
+    },
+    {
+        "shortName": "KYD",
+        "fullName": "Cayman Islands dollar"
+    },
+    {
+        "shortName": "KZT",
+        "fullName": "Kazakhstani tenge"
+    },
+    {
+        "shortName": "LAK",
+        "fullName": "Lao kip"
+    },
+    {
+        "shortName": "LBP",
+        "fullName": "Lebanese pound"
+    },
+    {
+        "shortName": "LKR",
+        "fullName": "Sri Lankan rupee"
+    },
+    {
+        "shortName": "LRD",
+        "fullName": "Liberian dollar"
+    },
+    {
+        "shortName": "LSL",
+        "fullName": "Lesotho loti"
+    },
+    {
+        "shortName": "LTL",
+        "fullName": "Lithuanian litas"
+    },
+    {
+        "shortName": "LVL",
+        "fullName": "Latvian lats"
+    },
+    {
+        "shortName": "LYD",
+        "fullName": "Libyan dinar"
+    },
+    {
+        "shortName": "MAD",
+        "fullName": "Moroccan dirham"
+    },
+    {
+        "shortName": "MDL",
+        "fullName": "Moldovan leu"
+    },
+    {
+        "shortName": "MGA",
+        "fullName": "Malagasy ariary"
+    },
+    {
+        "shortName": "MKD",
+        "fullName": "Macedonian denar"
+    },
+    {
+        "shortName": "MMK",
+        "fullName": "Myanmar kyat"
+    },
+    {
+        "shortName": "MNT",
+        "fullName": "Mongolian tögrög"
+    },
+    {
+        "shortName": "MOP",
+        "fullName": "Macanese pataca"
+    },
+    {
+        "shortName": "MRU",
+        "fullName": "Mauritanian ouguiya"
+    },
+    {
+        "shortName": "MUR",
+        "fullName": "Mauritian rupee"
+    },
+    {
+        "shortName": "MVR",
+        "fullName": "Maldivian rufiyaa"
+    },
+    {
+        "shortName": "MWK",
+        "fullName": "Malawian kwacha"
+    },
+    {
+        "shortName": "MXN",
+        "fullName": "Mexican peso"
+    },
+    {
+        "shortName": "MYR",
+        "fullName": "Malaysian ringgit"
+    },
+    {
+        "shortName": "MZN",
+        "fullName": "Mozambican metical"
+    },
+    {
+        "shortName": "NAD",
+        "fullName": "Namibian dollar"
+    },
+    {
+        "shortName": "NGN",
+        "fullName": "Nigerian naira"
+    },
+    {
+        "shortName": "NIO",
+        "fullName": "Nicaraguan córdoba"
+    },
+    {
+        "shortName": "NOK",
+        "fullName": "Norwegian krone"
+    },
+    {
+        "shortName": "NPR",
+        "fullName": "Nepalese rupee"
+    },
+    {
+        "shortName": "NZD",
+        "fullName": "New Zealand dollar"
+    },
+    {
+        "shortName": "OMR",
+        "fullName": "Omani rial"
+    },
+    {
+        "shortName": "PAB",
+        "fullName": "Panamanian balboa"
+    },
+    {
+        "shortName": "PEN",
+        "fullName": "Peruvian sol"
+    },
+    {
+        "shortName": "PGK",
+        "fullName": "Papua New Guinean kina"
+    },
+    {
+        "shortName": "PHP",
+        "fullName": "Philippine peso"
+    },
+    {
+        "shortName": "PKR",
+        "fullName": "Pakistani rupee"
+    },
+    {
+        "shortName": "PLN",
+        "fullName": "Polish złoty"
+    },
+    {
+        "shortName": "PYG",
+        "fullName": "Paraguayan guaraní"
+    },
+    {
+        "shortName": "QAR",
+        "fullName": "Qatari riyal"
+    },
+    {
+        "shortName": "RON",
+        "fullName": "Romanian leu"
+    },
+    {
+        "shortName": "RSD",
+        "fullName": "Serbian dinar"
+    },
+    {
+        "shortName": "RUB",
+        "fullName": "Russian ruble"
+    },
+    {
+        "shortName": "RWF",
+        "fullName": "Rwandan franc"
+    },
+    {
+        "shortName": "SAR",
+        "fullName": "Saudi riyal"
+    },
+    {
+        "shortName": "SBD",
+        "fullName": "Solomon Islands dollar"
+    },
+    {
+        "shortName": "SCR",
+        "fullName": "Seychellois rupee"
+    },
+    {
+        "shortName": "SDG",
+        "fullName": "Sudanese pound"
+    },
+    {
+        "shortName": "SEK",
+        "fullName": "Swedish krona"
+    },
+    {
+        "shortName": "SGD",
+        "fullName": "Singapore dollar"
+    },
+    {
+        "shortName": "SHP",
+        "fullName": "Saint Helena pound"
+    },
+    {
+        "shortName": "SLE",
+        "fullName": "Sierra Leonean leone"
+    },
+    {
+        "shortName": "SLL",
+        "fullName": "Sierra Leonean leone (old)"
+    },
+    {
+        "shortName": "SOS",
+        "fullName": "Somali shilling"
+    },
+    {
+        "shortName": "SRD",
+        "fullName": "Surinamese dollar"
+    },
+    {
+        "shortName": "STD",
+        "fullName": "São Tomé and Príncipe dobra"
+    },
+    {
+        "shortName": "SVC",
+        "fullName": "Salvadoran colón"
+    },
+    {
+        "shortName": "SYP",
+        "fullName": "Syrian pound"
+    },
+    {
+        "shortName": "SZL",
+        "fullName": "Swazi lilangeni"
+    },
+    {
+        "shortName": "THB",
+        "fullName": "Thai baht"
+    },
+    {
+        "shortName": "TJS",
+        "fullName": "Tajikistani somoni"
+    },
+    {
+        "shortName": "TMT",
+        "fullName": "Turkmenistani manat"
+    },
+    {
+        "shortName": "TND",
+        "fullName": "Tunisian dinar"
+    },
+    {
+        "shortName": "TOP",
+        "fullName": "Tongan paʻanga"
+    },
+    {
+        "shortName": "TRY",
+        "fullName": "Turkish lira"
+    },
+    {
+        "shortName": "TTD",
+        "fullName": "Trinidad and Tobago dollar"
+    },
+    {
+        "shortName": "TWD",
+        "fullName": "New Taiwan dollar"
+    },
+    {
+        "shortName": "TZS",
+        "fullName": "Tanzanian shilling"
+    },
+    {
+        "shortName": "UAH",
+        "fullName": "Ukrainian hryvnia"
+    },
+    {
+        "shortName": "UGX",
+        "fullName": "Ugandan shilling"
+    },
+    {
+        "shortName": "USD",
+        "fullName": "United States dollar"
+    },
+    {
+        "shortName": "UYU",
+        "fullName": "Uruguayan peso"
+    },
+    {
+        "shortName": "UZS",
+        "fullName": "Uzbekistani som"
+    },
+    {
+        "shortName": "VES",
+        "fullName": "Venezuelan bolívar"
+    },
+    {
+        "shortName": "VND",
+        "fullName": "Vietnamese đồng"
+    },
+    {
+        "shortName": "VUV",
+        "fullName": "Vanuatu vatu"
+    },
+    {
+        "shortName": "WST",
+        "fullName": "Samoan tālā"
+    },
+    {
+        "shortName": "XAF",
+        "fullName": "Central African CFA franc"
+    },
+    {
+        "shortName": "XAG",
+        "fullName": "Silver (one troy ounce)"
+    },
+    {
+        "shortName": "XAU",
+        "fullName": "Gold (one troy ounce)"
+    },
+    {
+        "shortName": "XCD",
+        "fullName": "East Caribbean dollar"
+    },
+    {
+        "shortName": "XDR",
+        "fullName": "Special drawing rights"
+    },
+    {
+        "shortName": "XOF",
+        "fullName": "West African CFA franc"
+    },
+    {
+        "shortName": "XPF",
+        "fullName": "CFP franc"
+    },
+    {
+        "shortName": "YER",
+        "fullName": "Yemeni rial"
+    },
+    {
+        "shortName": "ZAR",
+        "fullName": "South African rand"
+    },
+    {
+        "shortName": "ZMK",
+        "fullName": "Zambian kwacha (old)"
+    },
+    {
+        "shortName": "ZMW",
+        "fullName": "Zambian Kwacha"
+    },
+    {
+        "shortName": "ZWL",
+        "fullName": "Zimbabwean Dollars"
+    }
+]
