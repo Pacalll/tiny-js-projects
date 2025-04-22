@@ -29,7 +29,10 @@ function transform(encrypt){
     }
 
     inputText.forEach((symbol, index) =>{
-        inputText[index] = charset[(charset.indexOf(symbol) + shift) % charset.length];
+        let shiftedIndex = (charset.indexOf(symbol)  + shift) % charset.length;
+        if (shiftedIndex < 0) shiftedIndex += charset.length; 
+        inputText[index] = charset[shiftedIndex];
+        //inputText[index] = charset[(charset.indexOf(symbol) + (shift % charset.length)) % charset.length]; 
     });
     outputElement.value = inputText.join("");
 }
