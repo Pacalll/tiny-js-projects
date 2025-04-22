@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+    font-size: 1.5rem;
+    background-color: hsl(0, 11%, 28%);
+}
+h1{
+    font-size: 2.5rem;
+}
+textarea{
+    height: 20vh;
+    min-width: 80vw;
+    margin-top: 10px;
+    background-color: hsl(0, 11%, 28%);
+    font-size: 1.2rem;
+    border: 2px black dotted;
+}
+
+button, select{
+    font-size: 1rem;
+    background: hsl(97, 5%, 33%);
+    margin: 2rem;
+    padding: 2rem;
+    border-radius: 10px;
+    border: 2px black double;
+}
+
+button:hover{
+    background: hsl(97, 5%, 44%);
+}
+
+button:active{
+    background: hsl(97, 5%, 55%);
+}
+
+.explanation-charset{
+    font-size: 1.5rem;
+}
+
+.charset{
+    padding: 5vh 10vw;
+}
+.button{
+    display: flex;
+    flex-direction: row;
+}
+.error{
+    font-size: 2rem;
+    color: red;
+}
